@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+chromadb
+beautifulsoup4
+requests
+python-dotenv
+pytest
+httpx
+streamlit
+fastembed
